@@ -1,1 +1,3 @@
 RedwineENV/ .vscode/
+RedwineENV/DLLs/_ctypes.pyd
+RedwineENV/Lib/site-packages/debugpy/_vendored/pydevd/_pydevd_frame_eval/pydevd_frame_evaluator.pyx
