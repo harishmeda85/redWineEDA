@@ -1,0 +1,12 @@
+prefix=c:/RedWine_EDA/RedwineENV/Library
+exec_prefix=c:/RedWine_EDA/RedwineENV/Library
+libdir=c:/RedWine_EDA/RedwineENV/Library/lib
+includedir=c:/RedWine_EDA/RedwineENV/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
